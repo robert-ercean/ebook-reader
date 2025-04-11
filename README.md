@@ -120,7 +120,7 @@
 
 # Bill of Materials:
 
-| **Piece Name**                          | **Piece Type (Optional)**            | **Link** |
+| **Piece Name**                          | **Piece Type**                      | **Link** |
 |----------------------------------------|--------------------------------------|----------|
 | ESP32-CAP C0402                        | C                                    | https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO |
 | ADAFRUIT_CHIP-LED0603                  | LED                                  | https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603 |
