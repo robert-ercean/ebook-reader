@@ -74,7 +74,7 @@
 
 # 4. ESP32-C6 Pin Allocation
 
-| ESP32-C6 Pin | Function / Component          | Reason for Use                            |
+| ESP32-C6 Pin | Signal                        | Detailed                                   |
 |--------------|-------------------------------|--------------------------------------------|
 | GPIO1        | I²C SDA                       | Data line for sensors and RTC              |
 | GPIO2        | I²C SCL                       | Clock line for I²C interface               |
