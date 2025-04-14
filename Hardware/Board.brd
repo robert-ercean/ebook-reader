@@ -4557,6 +4557,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </signal>
 <signal name="N$14">
 </signal>
+<signal name="N$18">
+</signal>
 </signals>
 <mfgpreviewcolors>
 <mfgpreviewcolor name="soldermaskcolor" color="0xC8008000"/>
